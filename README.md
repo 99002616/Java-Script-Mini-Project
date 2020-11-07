@@ -1,0 +1,2 @@
+# Java-Script-Mini-Project
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1a2a1f6f3c446a586a3a0a17d9162bb)](https://app.codacy.com/gh/99002616/Java-Script-Mini-Project?utm_source=github.com&utm_medium=referral&utm_content=99002616/Java-Script-Mini-Project&utm_campaign=Badge_Grade)
